@@ -1,5 +1,5 @@
 # FCODER-Real-Estate-HTML-CSS-BOOTSTRAP
--I wanted to deal with the bootstrap library intensively in my HTML-CSS project.
+-I wanted to deal with the bootstrap library intensively in my HTML-CSS project. <br>
 -I used animation to add dynamism to the project.
 -Contains a small amount of javascript code.
 -This project is a demonstration of using HTML, CSS, and Bootstrap to create a responsive and visually appealing
